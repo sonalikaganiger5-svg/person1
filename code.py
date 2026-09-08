@@ -1,9 +1,5 @@
-firstname:"soanlika"
-lastname:"ganiger"
-collage:"kle.tech"
-divison:"A"
-print("firstname")
-print("lastname")
-print("collage")
-print("division")
+print("first_name:sonalika")
+print("last_name:ganiger")
+print("collage:kle.tech")
+print("division:A")
 
